@@ -1,7 +1,42 @@
-# Vue 3 + Vite
+# Vue Quze App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+![Vue Quze App Screenshot](https://i.ibb.co/42B1XKP/vue-Quze-App.png)
 
-## Recommended IDE Setup
+## Description
+Vue Quze App is a quick application developed using Vue.js, leveraging reactivity features and Firebase. It provides a platform for certain functionalities (specify functionalities here if applicable).
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Live Demo
+Check out the live version of the project [here](https://vuequzeapp.web.app/).
+
+## Features
+- Mention key functionalities here
+- Vue.js reactivity for dynamic user experiences
+- Integration with Firebase for data management
+
+## Installation
+To run this project locally, follow these steps:
+1. Clone the repository: `git clone <repository_url>`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run serve`
+
+## Tech Stack
+- Vue.js
+- Firebase (Firestore for data management)
+
+## Usage
+Describe how to use the application or any specific functionalities here.
+
+## Contributions
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/awesome-feature`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add awesome feature'`)
+5. Push to the branch (`git push origin feature/awesome-feature`)
+6. Create a pull request
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+Mention any acknowledgements, libraries, or resources used in this project.
